@@ -2,12 +2,6 @@
 
 This repository contains the implementation of a signed multiplier module in Verilog, along with a testbench for simulation.
 
-## Directory Structure
-
-Here is a sample README.md file for your Signed Multiplier module:
-
-markdown
-
 # Signed Multiplier Module
 
 This repository contains the implementation of a signed multiplier module in Verilog, along with a testbench for simulation.
